@@ -8,7 +8,7 @@
 
 | Repository | Description | Tech Stack | Status |
 |---|---|---|---|
-| [cse103-lab-LAB3](https://github.com/shardakomal36-cell/cse103-lab-LAB3) | CSE103 lab — Git, APIs, Shell scripting | Git, Python, Bash | Active |
+| [cse103-lab-LAB3-Komal](https://github.com/shardakomal36-cell/cse103-lab-LAB3) | CSE103 lab — Git, APIs, Shell scripting | Git, Python, Bash | Active |
 | [developer-portfolio](https://github.com/shardakomal36-cell/developer-portfolio) | This portfolio index | Markdown | Active |
 
 ---
